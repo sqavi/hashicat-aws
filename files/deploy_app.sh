@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to Sqavi's app. Replace this text with your own.
+  Welcome to Sqavi's app. Let's see how it works.
   <!-- END -->
 
   </div>
