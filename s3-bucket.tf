@@ -3,7 +3,7 @@ module "s3_bucket" {
 
   bucket        = "s3-bucket"
   acl           = "private"
-  bucket_prefix = "sqavi"
+  bucket_prefix = "shahid"
 
   versioning = {
     enabled = true
